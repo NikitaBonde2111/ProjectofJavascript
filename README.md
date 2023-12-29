@@ -1,0 +1,2 @@
+# ProjectofJavascript
+for my learning 
